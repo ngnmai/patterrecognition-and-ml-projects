@@ -1,2 +1,2 @@
 # patterrecognition-and-ml-projects
-Some projects from the courses Introduction to Pattern Recognition and Machine learning.  The projects are mainly about dealing with the Cifar10 dataset using different classifications.
+Some projects from the courses Introduction to Pattern Recognition and Machine learning.  The projects are mainly about dealing with the Cifar10 dataset using different classifications and with the GYM Open AI using reinforcement learning.
